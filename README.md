@@ -39,6 +39,9 @@ I'm Laksh Malhotra a Web Developer and Student.
 ### ⚡ Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### ⚡ GitHub Stats
