@@ -4,12 +4,12 @@ I'm Laksh Malhotra a Web Developer and Student.
 
 📫 Reach me out!
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40Laksh__Malhotra&style=social&url=https%3A%2F%2Ftwitter.com%2FLaksh__Malhotra)
-![Twitter URL](https://img.shields.io/twitter/url?label=%40laksh__malhotra&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Flaksh__malhotra)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40Laksh__Malhotra&style=social&url=https%3A%2F%2Ftwitter.com%2FLaksh__Malhotra)](https://twitter.com/Laksh__Malhotra)
+[![Instagram URL](https://img.shields.io/twitter/url?label=%40laksh__malhotra&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Flaksh__malhotra)](https://www.instagram.com/laksh__malhotra)
 
 - 🔭 I'm currently working on my Javascript skills!
 - 🌱 I’m currently learning everything 🤣.
-- 📫 How to reach me: lakshmalhotra@gmail.com.
+- 📫 How to reach me: lakshmalhotra2004@gmail.com.
 - 💻 Most used line of code `console.log()`.
 - 🥅 2021 Goals: Start a Youtube Channel with Outstanding Video ideas.
 - ⚡ Fun fact: I love to listen songs and play games.
