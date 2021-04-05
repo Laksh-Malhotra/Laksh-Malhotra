@@ -25,6 +25,11 @@ I'm Laksh Malhotra a Web Developer and Student.
 
 <br>
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Profile Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Laksh-Malhotra.Laksh-Malhotra)
@@ -33,8 +38,6 @@ I'm Laksh Malhotra a Web Developer and Student.
 <summary>
 ⚡ More stuff about me
 </summary>
-
-<br>
 
 ### ⚡ Coding Stats
 
