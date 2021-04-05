@@ -14,7 +14,7 @@ I'm Laksh Malhotra a Web Developer and Student.
 - 🥅 2021 Goals: Start a Youtube Channel with Outstanding Video ideas.
 - ⚡ Fun fact: I love to listen songs and play games.
 
-### Languages and Tools:
+### ⚡ Languages and Tools:
 
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img>
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img>
@@ -23,14 +23,7 @@ I'm Laksh Malhotra a Web Developer and Student.
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img>
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"><img>
 
-<br>
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### Profile Visitors
+### 😎 Profile Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Laksh-Malhotra.Laksh-Malhotra)
 
@@ -42,9 +35,11 @@ I'm Laksh Malhotra a Web Developer and Student.
 ### ⚡ Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 ### ⚡ GitHub Stats
