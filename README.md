@@ -44,6 +44,6 @@ No Activity tracked this Week
 
 ### ⚡ GitHub Stats
 
-[![Laksh GitHub stats](https://github-readme-stats-blond-rho.vercel.app/api?username=Laksh-Malhotra&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/Laksh-Malhotra/github-readme-stats)
+[![Laksh GitHub stats](https://github-readme-stats-7p41qcm8r-laksh-malhotra.vercel.app/api?username=Laksh-Malhotra&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/Laksh-Malhotra/github-readme-stats)
 
 </details>
