@@ -35,11 +35,10 @@ I'm Laksh Malhotra a Web Developer and Student.
 ### ⚡ Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+Markdown   1 hr 14 mins    ██████████████████▓░░░░░░   74.05 % 
+YAML       25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.95 % 
 ```
-
 <!--END_SECTION:waka-->
 
 ### ⚡ GitHub Stats
