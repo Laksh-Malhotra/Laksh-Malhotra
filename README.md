@@ -36,11 +36,11 @@ I'm Laksh Malhotra a Web Developer and Student.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.53 % 
-SCSS         2 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.11 % 
-HTML         1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JavaScript   3 hrs 25 mins   ███████████████▓░░░░░░░░░   62.52 % 
+SCSS         1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
+HTML         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Other        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
