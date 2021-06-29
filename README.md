@@ -36,7 +36,7 @@ I'm Laksh Malhotra a Web Developer and Student.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
