@@ -1,17 +1,18 @@
 ## Hi there, I'm Laksh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Laksh Malhotra a Web Developer and Student.
+I'm Laksh Malhotra a Web Developer, Student and Youtuber.
 
 📫 Reach me out!
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40Laksh__Malhotra&style=social&url=https%3A%2F%2Ftwitter.com%2FLaksh__Malhotra)](https://twitter.com/Laksh__Malhotra)
 [![Instagram URL](https://img.shields.io/twitter/url?label=%40laksh__malhotra&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Flaksh__malhotra)](https://www.instagram.com/laksh__malhotra)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmdXeIkQzsxFiH1c_EVsRww?label=Laksh%20Malhotra&style=social)
 
 - 🔭 I'm currently working on my Javascript skills!
 - 🌱 I’m currently learning everything 🤣.
 - 📫 How to reach me: lakshmalhotra2004@gmail.com.
 - 💻 Most used line of code `console.log()`.
-- 🥅 2021 Goals: Start a Youtube Channel with Outstanding Video ideas.
+- 😎 YT Channel : Laksh Malhotra
 - ⚡ Fun fact: I love to listen songs and play games.
 
 ### ⚡ Languages and Tools:
