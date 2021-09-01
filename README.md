@@ -37,8 +37,8 @@ I'm Laksh Malhotra a Web Developer, Student and Youtuber.
 
 <!--START_SECTION:waka-->
 ```text
-HTML   22 mins         █████████████▒░░░░░░░░░░░   53.24 % 
-CSS    20 mins         ███████████▓░░░░░░░░░░░░░   46.76 % 
+CSS    53 mins         ██████████████████████░░░   87.98 % 
+HTML   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 <!--END_SECTION:waka-->
 
